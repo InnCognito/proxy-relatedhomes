@@ -1,6 +1,8 @@
+// require('newrelic');
 const express = require('express');
 const proxy = require('http-proxy-middleware');
 
+const PORT = 3000;
 const app = express();
 
 const dirPath = `${__dirname}/../public/dist/`;
@@ -20,4 +22,4 @@ for (route of routes) {
 }
 
 
-app.listen(3000, () => console.log('Listening on port: 3000'));
+app.listen(PORT, () => console.log(`Listening on port: ${PORT}`));

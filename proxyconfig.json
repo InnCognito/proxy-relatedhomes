@@ -22,7 +22,7 @@
     },
     {
       "route": "/MoreHomes",
-      "address": "http://3.14.81.50/MoreHomes"
+      "address": "http://localhost:3005/MoreHomes"
     }
   ]
 }
