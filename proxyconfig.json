@@ -1,28 +1,28 @@
 {
-  "routes": [
-    {
-      "route": "/api/photos",
-      "address": "http://18.218.52.58:3001"
+  "routes": {
+    "photos": {
+      "route": "/photos",
+      "address": "http://18.218.52.58:3001/api/photos"
     },
-    {
-      "route": "/api/listings",
-      "address": "http://54.153.105.148:3002"
+    "listings": {
+      "route": "/listings",
+      "address": "http://54.153.105.148:3002/api/listings"
     },
-    {
-      "route": "/api/room",
-      "address": "http://52.53.211.152:3333"
+    "room": {
+      "route": "/room",
+      "address": "http://52.53.211.152:3333/api/room"
     },
-    {
-      "route": "/api/booking",
-      "address": "http://52.53.211.152:3333"
+    "booking": {
+      "route": "/booking",
+      "address": "http://52.53.211.152:3333/api/booking"
     },
-    {
-      "route": "/api/reviews",
-      "address": "http://18.218.58.47:3004"
+    "reviews": {
+      "route": "/reviews",
+      "address": "http://127.0.0.1:3001/api/reviews"
     },
-    {
-      "route": "/api/morehomes",
-      "address": "http://localhost:3005"
+    "morehomes": {
+      "route": "/morehomes",
+      "address": "http://127.0.0.1:3005/api/morehomes"
     }
-  ]
+  }
 }
