@@ -1,6 +1,6 @@
 {
-  "name": "airbnb-more-homes-proxy",
-  "version": "1.0.0",
+  "name": "InnCognito-relatedhomes-proxy",
+  "version": "2.0.0",
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hacker-home/Airbnb-more-homes-proxy.git"
+    "url": "git+https://github.com/InnCognito/proxy-relatedhomes.git"
   },
   "author": "",
   "dependencies": {
@@ -21,7 +21,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hacker-home/Airbnb-more-homes-proxy/issues"
+    "url": "https://github.com/InnCognito/proxy-relatedhomes/issues"
   },
-  "homepage": "https://github.com/hacker-home/Airbnb-more-homes-proxy#readme"
+  "homepage": "https://github.com/InnCognito/proxy-relatedhomes#readme"
 }
