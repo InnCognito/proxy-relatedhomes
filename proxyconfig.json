@@ -6,7 +6,7 @@
     },
     "listings": {
       "route": "/listings",
-      "address": "http://54.153.105.148:3002/api/listings"
+      "address": "http://54.71.145.232/api/listings"
     },
     "room": {
       "route": "/room",
@@ -18,11 +18,11 @@
     },
     "reviews": {
       "route": "/reviews",
-      "address": "http://127.0.0.1:3001/api/reviews"
+      "address": "http://52.13.113.42/api/reviews"
     },
     "morehomes": {
       "route": "/morehomes",
-      "address": "http://127.0.0.1:3005/api/morehomes"
+      "address": "http://54.185.57.115/api/morehomes"
     }
   }
 }
